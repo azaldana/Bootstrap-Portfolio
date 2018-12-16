@@ -1,0 +1,20 @@
+.navbar-brand {
+
+}
+
+.nav-link {
+  float: right;
+}
+
+.navbar-brand {
+  text-align: center;
+}
+
+.nav-class nav-link {
+  display: inline-block;
+  float: right;
+}
+
+.card-footer {
+  margin-bottom: 0%;
+}
